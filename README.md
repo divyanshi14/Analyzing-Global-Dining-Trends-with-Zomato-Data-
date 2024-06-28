@@ -1,6 +1,6 @@
 # Analyzing Global Dining Trends with Zomato Data
 
-<img src="https://etinsights.et-edge.com/wp-content/uploads/2023/12/shutterstock_2173930231.jpg"> 
+<img src="[https://etinsights.et-edge.com/wp-content/uploads/2023/12/shutterstock_2173930231.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fcompany-zomato.html&psig=AOvVaw3RjHtoVrvcGsm3CkLrJnDI&ust=1719634619676000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJC6hKe4_YYDFQAAAAAdAAAAABAE)"> 
 
 # About Dataset
 * Restaurant ID: A unique identifier for each restaurant.
